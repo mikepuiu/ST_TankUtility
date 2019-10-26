@@ -1,6 +1,6 @@
 metadata {
 	definition (name: "Tank Utility", namespace: "joshs85" , author: "Josh S") {
-		capability "Energy Meter"
+		capability "Battery"
 		capability "Polling"
 		capability "Refresh"
 		capability "Sensor"
